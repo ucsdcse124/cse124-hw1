@@ -1,0 +1,22 @@
+CSE 124 Student information
+Winter 2017
+
+To better get to know you, please fill in the information below.  Thank you!
+
+Q1. Your full name
+<put your name here>
+
+Q2. Your PID
+<e.g., A123456789>
+
+Q3. What name do you prefer to be called?
+
+Q4. Have you taken CSE 123?  If so, here at UCSD, or elsewhere?
+
+Q5. Did you take CSE 120?  If so, here at UCSD, or elsewhere?
+
+Q6. What do you hope to learn from the course?
+
+Q7. What is your biggest concern going into this class?
+
+Q8. Please provide any additional information you think I should know (optional)
